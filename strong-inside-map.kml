@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Map of Important Locations in Strong Inside</name>
+    <description>Locations mentioned in the text</description>
+    <Style id="icon-503-3F5BA9-labelson">
+      <IconStyle>
+        <color>ffa95b3f</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-62AF44-labelson">
+      <IconStyle>
+        <color>ff44af62</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-795046-labelson">
+      <IconStyle>
+        <color>ff465079</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-DB4436-labelson">
+      <IconStyle>
+        <color>ff3644db</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Style id="icon-503-F8971B-labelson">
+      <IconStyle>
+        <color>ff1b97f8</color>
+        <scale>1.1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>Nashville sites</name>
+      <Placemark>
+        <name>Residence of Chancellor Heard</name>
+        <description>211 Deer Park Dr., in the aristocratic neighborhood of Belle Meade</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -86.863558,36.109433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Memorial Gymnasium</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/H-O_LD5f_ICfUNI40Lxh4NzHBx4j5KEYXWu6wnMgNwDz97yJQwr2GFUQISwsn37GAeHuQvbjhYAwxBpAM-tTMDEdC2iHRqa7X3tRyhdMxmCyEObR8Duejz-Dm4VkurDVRKpmeGz7K1t1A5tnihPn2TKq" height="200" width="auto" /><br><br>where Commodore basketball is played<br><br><img src="https://lh5.googleusercontent.com/proxy/Hxw_4dX0RiweqI3vsZZ_rUbbroozR6MMxkrtZSe5DMSqmqsNTW6lB6IG7vH7hX2GhuXRDp-hAIQXaqw4KdyCHRXAqGoNol1tMxJ-bnRh2P9YgQvlToewwIrX2ZZvzbQAlVs" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/H-O_LD5f_ICfUNI40Lxh4NzHBx4j5KEYXWu6wnMgNwDz97yJQwr2GFUQISwsn37GAeHuQvbjhYAwxBpAM-tTMDEdC2iHRqa7X3tRyhdMxmCyEObR8Duejz-Dm4VkurDVRKpmeGz7K1t1A5tnihPn2TKq https://lh5.googleusercontent.com/proxy/Hxw_4dX0RiweqI3vsZZ_rUbbroozR6MMxkrtZSe5DMSqmqsNTW6lB6IG7vH7hX2GhuXRDp-hAIQXaqw4KdyCHRXAqGoNol1tMxJ-bnRh2P9YgQvlToewwIrX2ZZvzbQAlVs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -86.8071198,36.144597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nashville Municipal Auditorium</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/K_mwmin6l1lHam61l3InynueNx0Q2WfK8bZDGQqgsyTth4XvrmeN3UKmZkAZW4KuqXWvS21DPM1u_pI5ruSi1T6tThVaHfaONltYkMrLNnbRp8nB0rqoZatNqmGV" height="200" width="auto" /><br><br>where TSSAA championship was played<br><br><img src="https://lh3.googleusercontent.com/proxy/aW5HCwiDpZHHC200QKIJkTeFlS1E-g1sA_Q1n6dq-jXQCdZoQcNuCtIt0cucdAiinBR_0HnPRy5LVcXXjIP7Lfh0ug1JmohC86MI8K9psjOTkzLaa5ocp0AaHrSAYN7-DqdFgVZfLZkh9ySWXjq_8-cXpcyWot6by06OeG26Iw" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/K_mwmin6l1lHam61l3InynueNx0Q2WfK8bZDGQqgsyTth4XvrmeN3UKmZkAZW4KuqXWvS21DPM1u_pI5ruSi1T6tThVaHfaONltYkMrLNnbRp8nB0rqoZatNqmGV https://lh3.googleusercontent.com/proxy/aW5HCwiDpZHHC200QKIJkTeFlS1E-g1sA_Q1n6dq-jXQCdZoQcNuCtIt0cucdAiinBR_0HnPRy5LVcXXjIP7Lfh0ug1JmohC86MI8K9psjOTkzLaa5ocp0AaHrSAYN7-DqdFgVZfLZkh9ySWXjq_8-cXpcyWot6by06OeG26Iw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -86.7817328,36.1674077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pearl High School (now Martin Luther King Junior Magnet Pearl High School)</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/QJGbaGeLZkbo4KAl_iqO70BB5Urx2m7XvqL-gTjc3NiMWuscXj7ou_LtxQh3ek7yS1JlNDD9ke4chgGZDxcD9UZ_XW4OXyQdlM3X4ZC6UQ" height="200" width="auto" /><br><br>where Wallace attended high school]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/QJGbaGeLZkbo4KAl_iqO70BB5Urx2m7XvqL-gTjc3NiMWuscXj7ou_LtxQh3ek7yS1JlNDD9ke4chgGZDxcD9UZ_XW4OXyQdlM3X4ZC6UQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -86.8008329,36.1619646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fisk University</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/s3eugY7MB4wXxiwS2Iu588OatI2aqaAhp-TqalUGACNeBXerqR1y4R4lVXeUkOH3uLx-mzgt48Bah1WwpW1icOubE75s-IH9oRKBcS5y_xcxTxxJzWw5oebixBU" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/s3eugY7MB4wXxiwS2Iu588OatI2aqaAhp-TqalUGACNeBXerqR1y4R4lVXeUkOH3uLx-mzgt48Bah1WwpW1icOubE75s-IH9oRKBcS5y_xcxTxxJzWw5oebixBU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -86.8039869,36.1681387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Tennessee A&I (now Tennessee State University)]]></name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/nF-Aq5AUe1nQZTozcPgXc1-GNWOdJGJy1CuXH9GaTEStzjNhkY7O3GJ-kzhEazROY_IXSDeF-zHHNze1F0KuykMolJLgtYjnNSu-akslSFF6_Imfhi9Lt9cs" height="200" width="auto" /><br><br><br><br><img src="https://lh3.googleusercontent.com/proxy/v_b8kLGm8dsj4EMQyLbIyt7yh92vsVNbjw-FYl0PgudKnvWCYtk4Js7QGfncriw_LdgNw0kHSj-BTSN3ALeNsO_ar5SLP5FhgSs9C83uwsMMMtSTKpnZhb3CTMWeQefD" height="200" width="auto" /><br><br><img src="https://lh6.googleusercontent.com/proxy/m_02l8yz-mNSMY-ZXrndCik8H_6ACwgPEMAk_wTiaf0oWyE7Zc4XtdCsxjXEpJsO1913yBZeZrx_4zORbiihEb0H8qNLdZgr2RTbl1gbF9i9GF6XENhzZ72VLh-KYmCZmhifKxeecA" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/nF-Aq5AUe1nQZTozcPgXc1-GNWOdJGJy1CuXH9GaTEStzjNhkY7O3GJ-kzhEazROY_IXSDeF-zHHNze1F0KuykMolJLgtYjnNSu-akslSFF6_Imfhi9Lt9cs https://lh3.googleusercontent.com/proxy/v_b8kLGm8dsj4EMQyLbIyt7yh92vsVNbjw-FYl0PgudKnvWCYtk4Js7QGfncriw_LdgNw0kHSj-BTSN3ALeNsO_ar5SLP5FhgSs9C83uwsMMMtSTKpnZhb3CTMWeQefD https://lh6.googleusercontent.com/proxy/m_02l8yz-mNSMY-ZXrndCik8H_6ACwgPEMAk_wTiaf0oWyE7Zc4XtdCsxjXEpJsO1913yBZeZrx_4zORbiihEb0H8qNLdZgr2RTbl1gbF9i9GF6XENhzZ72VLh-KYmCZmhifKxeecA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -86.8304735,36.1665916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Meharry Hospital (now Nashville General Hospital)</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/9dbIaAVyEnAsD3Js-fg1KrRLxsGieywkdP_xAsss0guLolcZUmwTbcJS2IvIcHbKF-oyZHbMXsDfx6CLlNkm44YeELUt_hmcKhdUKtUIwg" height="200" width="auto" /><br><br>where Wallace was born]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/9dbIaAVyEnAsD3Js-fg1KrRLxsGieywkdP_xAsss0guLolcZUmwTbcJS2IvIcHbKF-oyZHbMXsDfx6CLlNkm44YeELUt_hmcKhdUKtUIwg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -86.8070929,36.1668387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Wallace's birth home]]></name>
+        <description>on Short 26th, until Wallace completed elementary school</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8176126,36.170776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Wallace's childhood home
+]]></name>
+        <description>1110 Cass St, until Wallace started high school</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -86.806895,36.186174,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Wallace's teenage home
+]]></name>
+        <description>1908 10th Ave N, where his parents continued to live even after Wallace started college</description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8039299,36.18351,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15th Avenue Church of Christ
+</name>
+        <description><![CDATA[Wallace's family church]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -86.8111604,36.1868874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nashville Public Library Hadley Park</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/igrp7DJ2aFU5QUIJaVIAV8loNNBoebn6L3fMz5Vj_B0Q66ST5Rb4x7cv-kHu-XzryU8Mdo0La87nKlrIzCdLLpoIH27c1JntGaKbKlDYXf9MI0W5D5I5_XhAGMv321d-zhE6lbE582PpoYfuAf4gW4ddDsSqOfvQvwsujkrMydPjtg6f2XZdA7cohyg6MBkh57Z3x9_lk2-6bpy10g" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/igrp7DJ2aFU5QUIJaVIAV8loNNBoebn6L3fMz5Vj_B0Q66ST5Rb4x7cv-kHu-XzryU8Mdo0La87nKlrIzCdLLpoIH27c1JntGaKbKlDYXf9MI0W5D5I5_XhAGMv321d-zhE6lbE582PpoYfuAf4gW4ddDsSqOfvQvwsujkrMydPjtg6f2XZdA7cohyg6MBkh57Z3x9_lk2-6bpy10g</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -86.8208437,36.1668162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wharton Junior High School (now Robert Churchwell Museum Magnet Elementary School)</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/nVuQwiEll2CNZrHqTlXqQFezyRJDUhSfkAKD3xuRrILohVPFISjI5MRCHM6C7CwnAYls3x0KXaw5NraKdie1" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/nVuQwiEll2CNZrHqTlXqQFezyRJDUhSfkAKD3xuRrILohVPFISjI5MRCHM6C7CwnAYls3x0KXaw5NraKdie1</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -86.8100549,36.1755256,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Father Ryan High School</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/cyio-2HWe24CrYGqegMbOgY7fOpPQ8Ov0W3CfP4fnuIyp2krhd0wjyBUGWSUAOSQu2o9qNBeGmGY0NRmIc5YiMA1PXQyrJBM-Wt5grwvGSDL_3A94AJi8s7iba5T5isnTCaEmMSn4qYUuPx1G_YMW3A-YWfxc25frJ3njzcUzfNS7KtcERVU9bJhMkFRlK1lX3aRXow_MWkWHbj6cFzTWGf8yttdcL8O6I3RJ03ieRdkjSW1zwrpuEqd_9UHfdh2" height="200" width="auto" /><br><br>first white opponents of Pearl HS basketball team http://www.fatherryan.org/page]]></description>
+        <styleUrl>#icon-503-DB4436-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/cyio-2HWe24CrYGqegMbOgY7fOpPQ8Ov0W3CfP4fnuIyp2krhd0wjyBUGWSUAOSQu2o9qNBeGmGY0NRmIc5YiMA1PXQyrJBM-Wt5grwvGSDL_3A94AJi8s7iba5T5isnTCaEmMSn4qYUuPx1G_YMW3A-YWfxc25frJ3njzcUzfNS7KtcERVU9bJhMkFRlK1lX3aRXow_MWkWHbj6cFzTWGf8yttdcL8O6I3RJ03ieRdkjSW1zwrpuEqd_9UHfdh2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -86.7670154,36.0981917,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Civil Rights events</name>
+      <Placemark>
+        <name>16th Street Baptist Church</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/HRUcG3l2erywThq-kFsp6p0GYlj2WOLHZB1grxDXGvbT0CjO3JDTBctih0Q96nhKW_R-C2x92u_VkQ5Axlx0SeDJdOWbQD9d9camSmGsAUA" height="200" width="auto" /><br><br>location of 16th Street Baptist Church Bombing in Birmingham https://en.wikipedia.org/wiki/16th_Street_Baptist_Church_bombing<br><br><img src="https://lh5.googleusercontent.com/proxy/IkpGBxTHB4jS1anw5lMKbZFMfIRYlpDc5pHSZn0xoBKd3lDjniHraYG7YUPmfSnjTjIvE76v28RSGsGBs-ObdnVbZD4nkLuLs2VNl0eu_rY0Tjm83sRERWP3ybrPQSrfiGV6pBCVbOtBSpO9JG05Wg2SIv5PjHTDGvE" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-795046-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/HRUcG3l2erywThq-kFsp6p0GYlj2WOLHZB1grxDXGvbT0CjO3JDTBctih0Q96nhKW_R-C2x92u_VkQ5Axlx0SeDJdOWbQD9d9camSmGsAUA https://lh5.googleusercontent.com/proxy/IkpGBxTHB4jS1anw5lMKbZFMfIRYlpDc5pHSZn0xoBKd3lDjniHraYG7YUPmfSnjTjIvE76v28RSGsGBs-ObdnVbZD4nkLuLs2VNl0eu_rY0Tjm83sRERWP3ybrPQSrfiGV6pBCVbOtBSpO9JG05Wg2SIv5PjHTDGvE</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -86.8149304,33.5167371,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Selma</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/o68NeehJMHNZ1L3xpsAHsiPF8Rlg26jHOZpYFMx04CHiSeSh_-_iqVMeZv1m1U_hgSq3Yv-njOpYepJJHwB4oXeFKOmMFAVR248q5-MaVl2-lK9cOP5Ju08EC6F7lxS1" height="200" width="auto" /><br><br>location of Bloody Sunday https://en.wikipedia.org/wiki/Selma_to_Montgomery_marches<br><br><img src="https://lh6.googleusercontent.com/proxy/YvakMJqyK4A9RNe53qKsDrQppn4JETmp8X_Vm9ZSRE0Z7so944ZHMdS-FY0zaIvuPTnh0pvp5vumqMLFY3G-2d8eeZjcqsnvjJetkAy0LtoXbyv-GfgITkjoHVtxs9Kyy2ASI6aUKQah7Is9WU67XuYZTK_nwFgYbIZQrlVByPcjOUjMQ-dQleP4EaGNvTFXlOlxIua8Zpwmk8wShBxABCruRjvOILhEIF28ypN4kyfcLYP70bSNPcSLAGuJBuYzHPxZeTsljtnwtDRBJvM6K1gWX2AxA8s" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-795046-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/o68NeehJMHNZ1L3xpsAHsiPF8Rlg26jHOZpYFMx04CHiSeSh_-_iqVMeZv1m1U_hgSq3Yv-njOpYepJJHwB4oXeFKOmMFAVR248q5-MaVl2-lK9cOP5Ju08EC6F7lxS1 https://lh6.googleusercontent.com/proxy/YvakMJqyK4A9RNe53qKsDrQppn4JETmp8X_Vm9ZSRE0Z7so944ZHMdS-FY0zaIvuPTnh0pvp5vumqMLFY3G-2d8eeZjcqsnvjJetkAy0LtoXbyv-GfgITkjoHVtxs9Kyy2ASI6aUKQah7Is9WU67XuYZTK_nwFgYbIZQrlVByPcjOUjMQ-dQleP4EaGNvTFXlOlxIua8Zpwmk8wShBxABCruRjvOILhEIF28ypN4kyfcLYP70bSNPcSLAGuJBuYzHPxZeTsljtnwtDRBJvM6K1gWX2AxA8s</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.0211007,32.4073589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Watts</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/Wf1xjEwyvcY_BCJat-E5O2uu1OdcDRl6L1zTu9iTpsnelbNeRa33gb_jnYKrOkg8LZ3GR0TtXFCGwKKx0_SV4YIOf0bfzr7gih75vXTnXWJKv2gS8n4943ChCwtFcw4XWTfkps2WFUlPpVtV0NxnDlXJlQI_TGaSt42MNHLj" height="200" width="auto" /><br><br>location of Watts riots https://en.wikipedia.org/wiki/Watts_riots<br><br><img src="https://lh5.googleusercontent.com/proxy/qa6Dq9QlFE4cpgDFk6dASgORN2-ouFxdeX7i5GJ7aqnMUIwl4xtv3ucsQpFuQn_-teQfWmSeafEPxUBU2unpsbxFpG6yxidUW4o3wPW3mGotqHhj4RBFIwsgxrQaFE8gmtS3HT1DOcHjFQ" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-503-795046-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/Wf1xjEwyvcY_BCJat-E5O2uu1OdcDRl6L1zTu9iTpsnelbNeRa33gb_jnYKrOkg8LZ3GR0TtXFCGwKKx0_SV4YIOf0bfzr7gih75vXTnXWJKv2gS8n4943ChCwtFcw4XWTfkps2WFUlPpVtV0NxnDlXJlQI_TGaSt42MNHLj https://lh5.googleusercontent.com/proxy/qa6Dq9QlFE4cpgDFk6dASgORN2-ouFxdeX7i5GJ7aqnMUIwl4xtv3ucsQpFuQn_-teQfWmSeafEPxUBU2unpsbxFpG6yxidUW4o3wPW3mGotqHhj4RBFIwsgxrQaFE8gmtS3HT1DOcHjFQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.2380432,33.9386361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Neshoba County</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/zu3HzfM1c0_uSZUq_alcw3ShXnhFI0_KJFNUczxozDRK9HUf9Lbx9G42azW7L7iPz2gM5TEEuW5NL-44bmrOtCCKWh4dgx74140y6w6S8mWa-r4j9A" height="200" width="auto" /><br><br>location of murders of 3 Freedom Riders https://en.wikipedia.org/wiki/Mississippi_civil_rights_workers'_murders]]></description>
+        <styleUrl>#icon-503-795046-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/zu3HzfM1c0_uSZUq_alcw3ShXnhFI0_KJFNUczxozDRK9HUf9Lbx9G42azW7L7iPz2gM5TEEuW5NL-44bmrOtCCKWh4dgx74140y6w6S8mWa-r4j9A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.1705998,32.8057157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lorraine Hotel (now National Civil Rights Museum)</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/fN_ilEv5370ZDUs82UUn1PDZLg3tcEjxWS8NC1NgpTi-K5eB6jo_1Tq1zr9LFxzjIYRNsUoLbxCBNVKpqd7kORURf4EMW5O5FZgHIR-7U0dO3SZgFSt5zrNzSrgMY_h-0Q8in7Fxc0E6GipZzqL46Fz8kLM1t04" height="200" width="auto" /><br><br>where Martin Luther King, Jr., was assassinated http://www.history.com/topics/black-history/martin-luther-king-jr-assassination]]></description>
+        <styleUrl>#icon-503-795046-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/fN_ilEv5370ZDUs82UUn1PDZLg3tcEjxWS8NC1NgpTi-K5eB6jo_1Tq1zr9LFxzjIYRNsUoLbxCBNVKpqd7kORURf4EMW5O5FZgHIR-7U0dO3SZgFSt5zrNzSrgMY_h-0Q8in7Fxc0E6GipZzqL46Fz8kLM1t04</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -90.057507,35.134429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>New York City
+</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/IFN23LmoXy5P--sCGLBEijw4DG4VwJ_0vVcw1XiXkrvjDI8RNM2ub7clZvK5uWOt0R0-rOfWPDI7RLd7Qwzv__03RuBZikPGUucdUWheobh4qdppRYg28LS6MlwxNrbw2Uyb9w" height="200" width="auto" /><br><br>where Malcolm X was assassinated http://www.history.com/this-day-in-history/malcolm-x-assassinated]]></description>
+        <styleUrl>#icon-503-795046-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/IFN23LmoXy5P--sCGLBEijw4DG4VwJ_0vVcw1XiXkrvjDI8RNM2ub7clZvK5uWOt0R0-rOfWPDI7RLd7Qwzv__03RuBZikPGUucdUWheobh4qdppRYg28LS6MlwxNrbw2Uyb9w</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.0059413,40.7127837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Little Rock</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/mMPgchDv6UtTi4Z2DUzW6HoiI078tSFChd3RMa-cPmARqkwoiWjhftqID0vEc-nnatTImepXbnoOaknMI1pUbLO6g7pjify1FcDY" height="200" width="auto" /><br><br>where 9 black students were enrolled in a previously all-white school https://en.wikipedia.org/wiki/Little_Rock_Nine]]></description>
+        <styleUrl>#icon-503-795046-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/mMPgchDv6UtTi4Z2DUzW6HoiI078tSFChd3RMa-cPmARqkwoiWjhftqID0vEc-nnatTImepXbnoOaknMI1pUbLO6g7pjify1FcDY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -92.2895948,34.7464809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Other cities</name>
+      <Placemark>
+        <name>Detroit</name>
+        <description>where Dillard was raised http://www.detroitmi.gov/</description>
+        <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -83.0457538,42.331427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Philadelphia</name>
+        <description>where Wallace moved after college http://www.phila.gov/Pages/default.aspx</description>
+        <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -75.1652215,39.9525839,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bronx
+</name>
+        <description><![CDATA[665 E 81st St, Wallace's residence during law school http://www.ilovethebronx.com/]]></description>
+        <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -73.9145,40.638133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Murfreesboro</name>
+        <description><![CDATA[where Wallace's extended family lived http://www.murfreesborotn.gov/]]></description>
+        <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -86.39027,35.8456213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Memphis</name>
+        <description><![CDATA[where Wallace's sister lived http://www.memphistn.gov/]]></description>
+        <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -90.0489801,35.1495343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fort Leonard Wood</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Uc9yGTjxLH00i3Pc_L69C3qraTrem5Cozy0deYS0QkbuSmRkork_jHeRiM_PdDukR1NkCkPl8I6S8Ae9cwj5QhAbk13n2hD4vRUuS0fjZacOkcTgIZO-q4Bbd2JeEPcAOs1FP9-zeaJloEEwDYvlslNYydVqERwfxYnKkcVojPzAPg" height="200" width="auto" /><br><br>where Wallace complete basic training as a member of the National Guard http://www.wood.army.mil/newweb/]]></description>
+        <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/Uc9yGTjxLH00i3Pc_L69C3qraTrem5Cozy0deYS0QkbuSmRkork_jHeRiM_PdDukR1NkCkPl8I6S8Ae9cwj5QhAbk13n2hD4vRUuS0fjZacOkcTgIZO-q4Bbd2JeEPcAOs1FP9-zeaJloEEwDYvlslNYydVqERwfxYnKkcVojPzAPg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -92.1646722,37.7252315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Watts</name>
+        <description>where Wallace visited while he worked for Urban League http://blackhistory.com/content/63859/watts-los-angeles-california</description>
+        <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -118.2380432,33.9386361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trenton</name>
+        <description>where Wallace visited while he worked for Urban League http://www.trentonnj.org/</description>
+        <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -74.7429384,40.2170534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chicago</name>
+        <description>where Wallace visited while he worked for Urban League http://www.cityofchicago.org/city/en.html</description>
+        <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -87.6297982,41.8781136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boston</name>
+        <description>where Wallace visited while he worked for Urban League http://www.cityofboston.gov/visitors/</description>
+        <styleUrl>#icon-503-62AF44-labelson</styleUrl>
+        <Point>
+          <coordinates>
+            -71.0588801,42.3600825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>SEC schools 1966-1970</name>
+      <Placemark>
+        <name>The University of Alabama</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/vdfqKX2NdzjaiURTxw4DG3FFuZA3PJlrOwuy_Hfb5_yMXJmr4Nl62NQdNk0YrKDiBcbNB-vjcQSUh56EStOm1Cp0Opxj0WvcocDNvyph7C6ja8uJOS7VoZhryTi1I5jy_bgCnis2" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-3F5BA9-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/vdfqKX2NdzjaiURTxw4DG3FFuZA3PJlrOwuy_Hfb5_yMXJmr4Nl62NQdNk0YrKDiBcbNB-vjcQSUh56EStOm1Cp0Opxj0WvcocDNvyph7C6ja8uJOS7VoZhryTi1I5jy_bgCnis2</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.5391418,33.2140233,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Auburn University</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/IwLXM-UBcpOXjmuy5_p38KHn6KGdfERmKxaGBbpfcShuSpcpon-WYLGqlpWP40aT0iE-C_HnOfh2hiyGAiWKaFSxHYKEYUoml2-1bytCRVZoCMarXqqJRpD_Z8X9Aoly_PkjnKz5yQ" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-3F5BA9-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/IwLXM-UBcpOXjmuy5_p38KHn6KGdfERmKxaGBbpfcShuSpcpon-WYLGqlpWP40aT0iE-C_HnOfh2hiyGAiWKaFSxHYKEYUoml2-1bytCRVZoCMarXqqJRpD_Z8X9Aoly_PkjnKz5yQ</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -85.4951663,32.5933574,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Louisiana State University</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/sQoNlIbN8bYXaEwXRopnH882ZHr8Za2OFMkv2fPQQ_lucBduFyNw6HtYoVbBgQXt8WzjPKKIgB9DcsikWXb371wqO7wVQkE1ddV1tpSQPXZgxHhTo30esegh8T6VMr8J5SEfRlzlX3ZL" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-3F5BA9-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/sQoNlIbN8bYXaEwXRopnH882ZHr8Za2OFMkv2fPQQ_lucBduFyNw6HtYoVbBgQXt8WzjPKKIgB9DcsikWXb371wqO7wVQkE1ddV1tpSQPXZgxHhTo30esegh8T6VMr8J5SEfRlzlX3ZL</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.1800023,30.4132579,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mississippi State University</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/RS1EknpSPAEyU10oUWqP78Z4wNtLtBsH5VP1qsCtnBXRgdp2XXY9P9cBZ3rbUaYC_wikuNHSO5qKhu7aL08-y1y7ast3FNx4bPTlhUHOPy4Wf5vPnflY4P5MK92rXW_76HMdZoF25gyA" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-3F5BA9-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/RS1EknpSPAEyU10oUWqP78Z4wNtLtBsH5VP1qsCtnBXRgdp2XXY9P9cBZ3rbUaYC_wikuNHSO5qKhu7aL08-y1y7ast3FNx4bPTlhUHOPy4Wf5vPnflY4P5MK92rXW_76HMdZoF25gyA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -88.7903868,33.4555279,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Arkansas</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/pVTI3Ycw4W1Jmwnuqd-zBv8zuFsupPuOhSwcfXDt7HGgZvuO_2Cj2hBWitomJnUx9yiZx47pB_YnMrAPWrJ_KJYihfb89mzkGecWcQydK8VPAXYAH0sOC_kIpnGq2lVHTI_jbuT-TscHtE0oeJE8WPl2RY6yvdcJFf7Ysheowe5Ab17R6fBIpRBTU0pFOcvr9L7G3cFEudtr" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-3F5BA9-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/pVTI3Ycw4W1Jmwnuqd-zBv8zuFsupPuOhSwcfXDt7HGgZvuO_2Cj2hBWitomJnUx9yiZx47pB_YnMrAPWrJ_KJYihfb89mzkGecWcQydK8VPAXYAH0sOC_kIpnGq2lVHTI_jbuT-TscHtE0oeJE8WPl2RY6yvdcJFf7Ysheowe5Ab17R6fBIpRBTU0pFOcvr9L7G3cFEudtr</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -94.1736551,36.0678324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vanderbilt University</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/H-O_LD5f_ICfUNI40Lxh4NzHBx4j5KEYXWu6wnMgNwDz97yJQwr2GFUQISwsn37GAeHuQvbjhYAwxBpAM-tTMDEdC2iHRqa7X3tRyhdMxmCyEObR8Duejz-Dm4VkurDVRKpmeGz7K1t1A5tnihPn2TKq" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-3F5BA9-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/H-O_LD5f_ICfUNI40Lxh4NzHBx4j5KEYXWu6wnMgNwDz97yJQwr2GFUQISwsn37GAeHuQvbjhYAwxBpAM-tTMDEdC2iHRqa7X3tRyhdMxmCyEObR8Duejz-Dm4VkurDVRKpmeGz7K1t1A5tnihPn2TKq</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -86.8026551,36.1447034,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The University of Georgia</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/e5HRHQ3X-3uwOubpj3af__WOueHRIqqFAn5vuswKPaUh9IicFACMJT7XUWdVbzQ1wUW54dSSzNpIjWYMyhCX9SWDguifl1GkIOgl0-MRdguxQuLWbq9WqkxVBK4" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-3F5BA9-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/e5HRHQ3X-3uwOubpj3af__WOueHRIqqFAn5vuswKPaUh9IicFACMJT7XUWdVbzQ1wUW54dSSzNpIjWYMyhCX9SWDguifl1GkIOgl0-MRdguxQuLWbq9WqkxVBK4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.3773221,33.9480053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Florida</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/YYfqirPhAGw1Agkd7g5tgcar-bsPlWUhhR97PqNqOHg64XRBy75YG9G9TZXvxsnDtV2uBeeM6OE18CP2waiA5eOnpq0AiRzagciWZnA70hLtuP50EWEwDJrJ1A" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-3F5BA9-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/YYfqirPhAGw1Agkd7g5tgcar-bsPlWUhhR97PqNqOHg64XRBy75YG9G9TZXvxsnDtV2uBeeM6OE18CP2waiA5eOnpq0AiRzagciWZnA70hLtuP50EWEwDJrJ1A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -82.3549302,29.6436325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Kentucky</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/Mq9WqumLRjk3N3W9U6LIcxFnZlA-aFPs0aNajyb4cmh9xtYZ3hOpCllTRAmIoBXUNNkWn-b_Ph-CvKln7oCjPAY0ZnTUyrsTXjfxm00mEp804CKPMl8ZY4gSa8UltHd3qynrZjTphA" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-503-3F5BA9-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/Mq9WqumLRjk3N3W9U6LIcxFnZlA-aFPs0aNajyb4cmh9xtYZ3hOpCllTRAmIoBXUNNkWn-b_Ph-CvKln7oCjPAY0ZnTUyrsTXjfxm00mEp804CKPMl8ZY4gSa8UltHd3qynrZjTphA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -84.5039697,38.0306511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Other schools mentioned</name>
+      <Placemark>
+        <name>University of Michigan</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/1WeKn8jqdzM2TbZL_DcYG1UlaQQLaoMKrj5kVAO-7CBngFK7U8a8HIIgtc4tw-LnfHzn2RcpAfai-WOz7thhMBp3ObBZqKsMmebJro1V7_SHyZTYwLDRzn8prG1cSG9AIwtJg8mgc3u81A8n1AW1qw" height="200" width="auto" /><br><br>school that recruited Wallace to play basketball]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/1WeKn8jqdzM2TbZL_DcYG1UlaQQLaoMKrj5kVAO-7CBngFK7U8a8HIIgtc4tw-LnfHzn2RcpAfai-WOz7thhMBp3ObBZqKsMmebJro1V7_SHyZTYwLDRzn8prG1cSG9AIwtJg8mgc3u81A8n1AW1qw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -83.7382241,42.2780436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Baltimore</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/ESJrUeJxpWnP-hbVZf_1OQuN1rwNaB1am2RjZTC07jirow5bWK1F0DV2lNxAOTaJS1GC3v0epYk2LMKdrXVq5onk3u9Kn9mSwXTd7mXF2FdXeUD-2nd_F2yc-72-NiMBjDv7j_Y" height="200" width="auto" /><br><br>where Wallace served as a law professor]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/ESJrUeJxpWnP-hbVZf_1OQuN1rwNaB1am2RjZTC07jirow5bWK1F0DV2lNxAOTaJS1GC3v0epYk2LMKdrXVq5onk3u9Kn9mSwXTd7mXF2FdXeUD-2nd_F2yc-72-NiMBjDv7j_Y</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.617082,39.305754,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Iowa State University</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/W5QHfiJxsUoGw1mvmn-816M_0zs0usZDetEe27CYJOPfpeXWnYrR4SabZXgbS4_TpnyTUpBtA1diLr16ZmzA7N0epRGzWYvzlXtGJ_PJPSWrSC2HGmS-9ALO_vFh2Uc5nXFPizE5W3-XSgGKrenHU9CdCXgIaYVOd5MrY74" height="200" width="auto" /><br><br>school that recruited Wallace to play basketball]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/W5QHfiJxsUoGw1mvmn-816M_0zs0usZDetEe27CYJOPfpeXWnYrR4SabZXgbS4_TpnyTUpBtA1diLr16ZmzA7N0epRGzWYvzlXtGJ_PJPSWrSC2HGmS-9ALO_vFh2Uc5nXFPizE5W3-XSgGKrenHU9CdCXgIaYVOd5MrY74</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.5453411,41.6236439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>American University Washington College of Law</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/gGIRc4Aylq9fEUF_OziE9olx9KTCmqdGsWUQxV1k5fOx9iO8q8g9wdVSQNnu2E8lobT3t7Vy3Kp5hiNgsR_2r6YI9dI1BZ0k2zOOyxXcSgg" height="200" width="auto" /><br><br>where Wallace works as a law professor]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/gGIRc4Aylq9fEUF_OziE9olx9KTCmqdGsWUQxV1k5fOx9iO8q8g9wdVSQNnu2E8lobT3t7Vy3Kp5hiNgsR_2r6YI9dI1BZ0k2zOOyxXcSgg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.079786,38.945936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The University of Iowa</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/AvEjsRRsTf2O9OYZHwwpPm3fiw5IOuG6iVxKsVj8ZpFcTfS8-rtFVdhAOvKLoPNkyBKGR2jFlUzy8OaYLFQMPaV4V3OL0osrna1dKB8ABvk1w0Yqh6ivIUapJmHlLw" height="200" width="auto" /><br><br>school that recruited Wallace to play basketball]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/AvEjsRRsTf2O9OYZHwwpPm3fiw5IOuG6iVxKsVj8ZpFcTfS8-rtFVdhAOvKLoPNkyBKGR2jFlUzy8OaYLFQMPaV4V3OL0osrna1dKB8ABvk1w0Yqh6ivIUapJmHlLw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -91.5548998,41.6626963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dunbar High School</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/aWyWYWlOtcRuYtCMVlW25j-COihaeBWmo4Eg0yJ9S5c8doJMerlMyihuR3XMiQuUGH3o4zTykQsvnZoiuOPiEqUILfqNx61LPkZV_Avy6n0vfnzUETk" height="200" width="auto" /><br><br>Prominent high school for black students, like Pearl High School https://en.wikipedia.org/wiki/Dunbar_High_School_%28Washington,_D.C.%29]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/aWyWYWlOtcRuYtCMVlW25j-COihaeBWmo4Eg0yJ9S5c8doJMerlMyihuR3XMiQuUGH3o4zTykQsvnZoiuOPiEqUILfqNx61LPkZV_Avy6n0vfnzUETk</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.0129006,38.9077814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>George Washington University</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/ec2FZrqhFlXVfoV-YLDJhF_hbZtS1wgEEpy6vSDCKkBymwdQm0vwKUqe9t9dcLfPZyd5z3LVNf-ZFInRdmeeo9GVYTer_9Y_AktLy6wtfHuquxN922-vaByFRbWDNvVQ6UM3CLXoHzE3JG7-lDAEq1tXgg" height="200" width="auto" /><br><br>where Wallace worked]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/ec2FZrqhFlXVfoV-YLDJhF_hbZtS1wgEEpy6vSDCKkBymwdQm0vwKUqe9t9dcLfPZyd5z3LVNf-ZFInRdmeeo9GVYTer_9Y_AktLy6wtfHuquxN922-vaByFRbWDNvVQ6UM3CLXoHzE3JG7-lDAEq1tXgg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -77.0470916,38.8991756,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Columbia University</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/MTSDBoKJ1INAGlXmg-J5tV1wMYOYlBGPVhmH5eMwD8RM5jyRSuuUUh1QoxP_joHxQUYXo_WqrCCP7InQx6XzKRgOv3bptV0" height="200" width="auto" /><br><br>where Wallace attended law school]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/MTSDBoKJ1INAGlXmg-J5tV1wMYOYlBGPVhmH5eMwD8RM5jyRSuuUUh1QoxP_joHxQUYXo_WqrCCP7InQx6XzKRgOv3bptV0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -73.9625727,40.8075355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anderson High School</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/ZyfP032Cc3oPsa4Kp0bQUfpaXycaOwj7sVa6_ELZAg38g3Wq0GurpLRaN8HEQwfZJHS6qNZdTXMhoNZKYyHnH2mOAw" height="200" width="auto" /><br><br>Prominent high school for black students, like Pearl High School https://en.wikipedia.org/wiki/Anderson_High_School_%28Texas%29]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/ZyfP032Cc3oPsa4Kp0bQUfpaXycaOwj7sVa6_ELZAg38g3Wq0GurpLRaN8HEQwfZJHS6qNZdTXMhoNZKYyHnH2mOAw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -97.7532919,30.3756118,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UNC Chapel Hill</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/lCEDNLuDNU3j-grULAccd_xfCRuSP84HD48Xbo5kzq_SK6cnWTXHMErS2-5N_pXR8q1Sq54Q_oR2e-76ziXBJ5_6XQNJ6uKhvrhxNY2lBioHcOPqCV9TZhrqspQ5" height="200" width="auto" /><br><br>where Chancellor Heard worked before he moved to Nashville]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/lCEDNLuDNU3j-grULAccd_xfCRuSP84HD48Xbo5kzq_SK6cnWTXHMErS2-5N_pXR8q1Sq54Q_oR2e-76ziXBJ5_6XQNJ6uKhvrhxNY2lBioHcOPqCV9TZhrqspQ5</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -79.0330696,35.9288147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Melrose High School</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/SgcGC9oSaRrLEGD0seQdo6Jc1kZ1JJaduyj-TwWWa3UqiUY_2Fsqm_zp38X1a_XhdOnpRoLMutix6fisUkVkijMQoUonuC_7aw9D-jnBqWXH66EJ9yK-jLOk7qa6-9BqYg" height="200" width="auto" /><br><br>Prominent high school for black students, like Pearl High School http://www.mcsk12.net/schools/melrose.hs/site/documents/MELROSEHISTORY.pdf]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/SgcGC9oSaRrLEGD0seQdo6Jc1kZ1JJaduyj-TwWWa3UqiUY_2Fsqm_zp38X1a_XhdOnpRoLMutix6fisUkVkijMQoUonuC_7aw9D-jnBqWXH66EJ9yK-jLOk7qa6-9BqYg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.9669175,35.1054078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of California, Los Angeles</name>
+        <description><![CDATA[<img src="https://lh6.googleusercontent.com/proxy/dkbsSKQLUL6juqJRVX03zb-mjjP3rB_dRqYFjrE6-Igjo7ti5wBXyhG47p9cSIW1xx10bCbv5DXMFu_bhEEDyLZxiEGKLN-fTvNz101mIFwTE6tf30x8rQtZ61cncYGwHKQpdC_N-A" height="200" width="auto" /><br><br>school that recruited Wallace to play basketball]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh6.googleusercontent.com/proxy/dkbsSKQLUL6juqJRVX03zb-mjjP3rB_dRqYFjrE6-Igjo7ti5wBXyhG47p9cSIW1xx10bCbv5DXMFu_bhEEDyLZxiEGKLN-fTvNz101mIFwTE6tf30x8rQtZ61cncYGwHKQpdC_N-A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -118.4451811,34.068921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Loyola University</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/0IsYWynBbIWbnWlywDjsdPP4FAr5CGt3FtPI78e4jnb18JlFXZmMpZYuMdl6n1vO4KyDVfxH3ar2CWXzXmHwVHF3q65t79QZ6FI6OsU3hevLDzTD_tCiCQesBws9OYsP-k7wyau-Ftay0jK-KoPqKw" height="200" width="auto" /><br><br>school that recruited Wallace to play basketball]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/0IsYWynBbIWbnWlywDjsdPP4FAr5CGt3FtPI78e4jnb18JlFXZmMpZYuMdl6n1vO4KyDVfxH3ar2CWXzXmHwVHF3q65t79QZ6FI6OsU3hevLDzTD_tCiCQesBws9OYsP-k7wyau-Ftay0jK-KoPqKw</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.6577876,41.9986003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>University of Wisconsin-Madison</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/tmc3Tqb0s-XNNiH2PaWIImwPuP_oHfRyPO3xpPYSpXBNAITIPYXsxe_6Ag7NrijT0xyj439LdDnCUa11pgDeFn57kGuBaMEZ-dNZ1anx3-RR88M" height="200" width="auto" /><br><br>school that recruited Wallace to play basketball]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/tmc3Tqb0s-XNNiH2PaWIImwPuP_oHfRyPO3xpPYSpXBNAITIPYXsxe_6Ag7NrijT0xyj439LdDnCUa11pgDeFn57kGuBaMEZ-dNZ1anx3-RR88M</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -89.4124875,43.076592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Northwestern University</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/5i989N_MZzW98b3wAnYLUZmjpXxs84crzEie2OWC73VHsC4ppwcB6oGq1er-WdgFY01c3gNhpSPf05lWbwg23STWKuUQEd2igijI0gV4" height="200" width="auto" /><br><br>school that recruited Wallace to play basketball]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/5i989N_MZzW98b3wAnYLUZmjpXxs84crzEie2OWC73VHsC4ppwcB6oGq1er-WdgFY01c3gNhpSPf05lWbwg23STWKuUQEd2igijI0gV4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -87.675267,42.0564594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Purdue University</name>
+        <description><![CDATA[<img src="https://lh5.googleusercontent.com/proxy/8vwE4dRTWaaQ4_QEfkbghf_LY6vOSF7D8_hQrQOY6H1aMabaPdoUj-ERkTGd3_Wra4l8ReqrMAZOScXV9LuRaisQRsrgSu0yqBMbd97Us_mD7aB3dB9pmFU4RICi" height="200" width="auto" /><br><br>school that recruited Wallace to play basketball]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh5.googleusercontent.com/proxy/8vwE4dRTWaaQ4_QEfkbghf_LY6vOSF7D8_hQrQOY6H1aMabaPdoUj-ERkTGd3_Wra4l8ReqrMAZOScXV9LuRaisQRsrgSu0yqBMbd97Us_mD7aB3dB9pmFU4RICi</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -86.9211946,40.4237054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Texas Western College (now The University of Texas At El Paso)</name>
+        <description><![CDATA[<img src="https://lh4.googleusercontent.com/proxy/MrI2eREBvomInx2QoOKoky3jSl0GcUI48Ghzc9KkbivBXGngCFDJLdWxzvia-634LUbspJljhK5uGBs0atdOU52TrBRkaeT9ntoHjKwlQI57V7h1KG1IVR9dMwY4N8AfvnFP2MiyRTUxJGFwk4Y1xJTSQe4Wli1JJA" height="200" width="auto" /><br><br>all-black starting team defeated Kentucky to win the NCAA tournament https://espn.go.com/classic/s/013101_texas_western_fitzpatrick.html]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh4.googleusercontent.com/proxy/MrI2eREBvomInx2QoOKoky3jSl0GcUI48Ghzc9KkbivBXGngCFDJLdWxzvia-634LUbspJljhK5uGBs0atdOU52TrBRkaeT9ntoHjKwlQI57V7h1KG1IVR9dMwY4N8AfvnFP2MiyRTUxJGFwk4Y1xJTSQe4Wli1JJA</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -106.5057332,31.7730893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tulane University</name>
+        <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/Ptrb84sBetlcsIZukCM6800tQ5C55nC1igwA2ULMF0Ym4jpOAoEX0RB7FGELPvErtXnNHze8qmvabimzkhSWTW0Kt-uQpecub2_Ud5Qjo6p8rwlR96PbdtCWk96bk03SLg" height="200" width="auto" /><br><br>where Steve Martin attended college and played baseball]]></description>
+        <styleUrl>#icon-503-F8971B-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://lh3.googleusercontent.com/proxy/Ptrb84sBetlcsIZukCM6800tQ5C55nC1igwA2ULMF0Ym4jpOAoEX0RB7FGELPvErtXnNHze8qmvabimzkhSWTW0Kt-uQpecub2_Ud5Qjo6p8rwlR96PbdtCWk96bk03SLg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -90.1207279,29.9403477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
