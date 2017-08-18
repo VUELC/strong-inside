@@ -149,7 +149,7 @@
         },
         "location": {
           "lon": "-86.8048871",
-          "zoom": "15",
+          "zoom": "14",
           "lat": "36.1446847"
         }
       },
@@ -197,15 +197,15 @@
         },
         "location": {
           "lon": "-86.8048871",
-          "zoom": "15",
+          "zoom": "14",
           "lat": "36.1446847"
         }
       },
       {
         "media": {
-          "caption": "Retrieved from: http:\/\/www.tennessean.com\/story\/news\/2014\/11\/29\/perry-wallace-became-reluctant-trailblazer\/19637211\/",
-          "url": "http:\/\/www.gannett-cdn.com\/-mm-\/6cf8b5a3a448e097140f82071ad2fdedf5ec8a74\/c=0-74-2998-2328&amp;r=x1443&amp;c=1920x1440\/local\/-\/media\/Nashville\/Nashville\/2014\/11\/26\/635525958683436826-PerryWallace-30.JPG",
-          "credit": "Photo: Jimmy Ellis\/The Tennessean"
+          "caption": "Retrieved from: https:\/\/news.vanderbilt.edu\/2010\/10\/26\/vanderbilt-basketball-legend-roy-skinner-has-died\/",
+          "url": "https:\/\/news.vanderbilt.edu\/files\/Roy-Skinner-1.jpg",
+          "credit": null
         },
         "text": {
           "text": "Roy Skinner was the head coach of the Vanderbilt varsity basketball team (center)",
@@ -213,7 +213,7 @@
         },
         "location": {
           "lon": "-86.8048871",
-          "zoom": "15",
+          "zoom": "14",
           "lat": "36.1446847"
         }
       },
@@ -229,7 +229,7 @@
         },
         "location": {
           "lon": "-86.80711",
-          "zoom": "16",
+          "zoom": "17",
           "lat": "36.14459"
         }
       },
@@ -277,7 +277,7 @@
         },
         "location": {
           "lon": "-86.8048871",
-          "zoom": "15",
+          "zoom": "14",
           "lat": "36.1446847"
         }
       },
@@ -293,7 +293,7 @@
         },
         "location": {
           "lon": "-86.8048871",
-          "zoom": "15",
+          "zoom": "14",
           "lat": "36.1446847"
         }
       },
@@ -308,9 +308,9 @@
           "headline": "Wallace begins playing basketball with Godfrey Dillard, 1966"
         },
         "location": {
-          "lon": "-86.8048871",
-          "zoom": "15",
-          "lat": "36.1446847"
+          "lon": "-86.80711",
+          "zoom": "17",
+          "lat": "36.14459"
         }
       },
       {
@@ -321,7 +321,7 @@
         },
         "text": {
           "text": "At the time, Lattin played basketball at Texas Western College (now The University of Texas at El Paso)",
-          "headline": "Wallace sees David \"Big Daddy D\" Lattin’s more theatrical dunk, c. 1966"
+          "headline": "Wallace sees David “Big Daddy D” Lattin’s more theatrical dunk, c. 1966"
         },
         "location": {
           "lon": "-106.5058261",
@@ -400,12 +400,12 @@
           "credit": null
         },
         "text": {
-          "text": "Martin Luther King, Jr. was one of the foremost Civil Rights leaders in the 1960’s who practiced and organized non-violent protests for civil rights. Stokely Carmichael was key in establishing the Black Panthers and the \"Black Power\" movement.",
+          "text": "Martin Luther King, Jr. was one of the foremost Civil Rights leaders in the 1960’s who practiced and organized non-violent protests for civil rights. Stokely Carmichael was key in establishing the Black Panthers and the “Black Power” movement.",
           "headline": "Wallace hears Martin Luther King, Jr. and Stokely Carmichael speak at Impact ’67 (Chapter 14)"
         },
         "location": {
           "lon": "-86.80711",
-          "zoom": "16",
+          "zoom": "17",
           "lat": "36.14459"
         }
       },
@@ -597,7 +597,7 @@
         },
         "location": {
           "lon": "-86.80711",
-          "zoom": "16",
+          "zoom": "17",
           "lat": "36.14459"
         }
       },
@@ -625,11 +625,11 @@
         },
         "text": {
           "text": "Vanderbilt University",
-          "headline": "Wallace informs Vanderbilt administration on experience as black student and black athlete at Vanderbilt, 1968 (Chapter 23)"
+          "headline": "Wallace informs Vanderbilt administration on his experience as a black student and athlete at Vanderbilt, 1968 (Chapter 23)"
         },
         "location": {
           "lon": "-86.8048871",
-          "zoom": "13",
+          "zoom": "14",
           "lat": "36.1446847"
         }
       },
@@ -677,7 +677,7 @@
         },
         "location": {
           "lon": "-86.8048871",
-          "zoom": "13",
+          "zoom": "14",
           "lat": "36.1446847"
         }
       },
@@ -705,11 +705,11 @@
         },
         "text": {
           "text": "Vanderbilt University",
-          "headline": "Wallace wins \"Bachelor of Ugliness\" from the student body, 1970 (Chapter 26)"
+          "headline": "Wallace wins “Bachelor of Ugliness” from the student body, 1970 (Chapter 26)"
         },
         "location": {
           "lon": "-86.8048871",
-          "zoom": "13",
+          "zoom": "14",
           "lat": "36.1446847"
         }
       },
@@ -725,7 +725,7 @@
         },
         "location": {
           "lon": "-86.80711",
-          "zoom": "16",
+          "zoom": "17",
           "lat": "36.14459"
         }
       },
@@ -868,9 +868,9 @@
           "headline": "Wallace enters Columbia Law School, 1972 (Chapter 28)"
         },
         "location": {
-          "lon": "-73.9602897",
+          "lon": "-73.9642862",
           "zoom": "16",
-          "lat": "40.8070804"
+          "lat": "40.8071372"
         }
       },
       {
@@ -884,9 +884,9 @@
           "headline": "Bob Tallent asks Wallace to mentor his players, 1974"
         },
         "location": {
-          "lon": "-77.04709",
-          "zoom": "15",
-          "lat": "38.89917"
+          "lon": "-77.0512873",
+          "zoom": "16",
+          "lat": "38.8996115"
         }
       },
       {
