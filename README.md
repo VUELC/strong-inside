@@ -29,4 +29,4 @@ The [Vanderbilt University English Language Center] (VU ELC) has created supplem
 [Vanderbilt University English Language Center]: https://www.vanderbilt.edu/elc/
 
 [LICENSE]: ./LICENSE
-[license-badge]: https://img.shields.io/badge/license-MIT-0038e2.svg?style=flat-square
+[license-badge]: https://img.shields.io/badge/license-MIT-D8AB4C.svg?style=flat-square
