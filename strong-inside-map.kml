@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>Map of Important Locations in Strong Inside</name>
-    <description>Locations mentioned in the text</description>
+    <description><![CDATA[Map of Important Locations from Strong Inside by the Vanderbilt University English Language Center (ELC).<br><br>http://www.vanderbilt.edu/elc/resources/supplement-to-strong-inside/map-of-important-locations/]]></description>
     <Style id="icon-503-3F5BA9-normal">
       <IconStyle>
         <color>ffa95b3f</color>
