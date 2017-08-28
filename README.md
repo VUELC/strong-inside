@@ -1,5 +1,7 @@
 # Data for the VU ELC’s Supplement to Strong Inside
+
 [![license][license-badge]][LICENSE]
+
 The [Vanderbilt University English Language Center] (VU ELC) has created supplementary resources for readers of *[Strong Inside: Perry Wallace and the Collision of Race and Sports in the South]*. The VU ELC’s [Supplement to Strong Inside] helps individuals read a text on an unfamiliar topic and internalize relevant themes from the story. We have created this supplement as part of our mission to address the professional, academic, and practical language needs of students who have a first language other than English. Our supplement includes the following digital tools:
 * [Timeline for Perry Wallace from Strong Inside]
 * [StoryMap for Perry Wallace from Strong Inside]
